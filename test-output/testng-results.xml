@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3657" started-at="2022-11-29T22:29:26 EST" finished-at="2022-11-29T22:29:30 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3657" started-at="2022-11-29T22:29:26 EST" finished-at="2022-11-29T22:29:30 EST">
+      <class name="CarbohydrateCalcE2E.ValidResult">
+        <test-method status="PASS" signature="goToUrl()[pri:0, instance:CarbohydrateCalcE2E.ValidResult@25e2ab5a]" name="goToUrl" is-config="true" duration-ms="477" started-at="2022-11-29T22:29:26 EST" finished-at="2022-11-29T22:29:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToUrl -->
+        <test-method status="PASS" signature="calculateWithBasicDetails()[pri:0, instance:CarbohydrateCalcE2E.ValidResult@25e2ab5a]" name="calculateWithBasicDetails" duration-ms="2304" started-at="2022-11-29T22:29:26 EST" finished-at="2022-11-29T22:29:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateWithBasicDetails -->
+        <test-method status="PASS" signature="checkAgeError()[pri:0, instance:CarbohydrateCalcE2E.ValidResult@25e2ab5a]" name="checkAgeError" duration-ms="1328" started-at="2022-11-29T22:29:29 EST" finished-at="2022-11-29T22:29:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAgeError -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:CarbohydrateCalcE2E.ValidResult@25e2ab5a]" name="closeBrowser" is-config="true" duration-ms="182" started-at="2022-11-29T22:29:30 EST" finished-at="2022-11-29T22:29:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- CarbohydrateCalcE2E.ValidResult -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
